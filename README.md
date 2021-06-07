@@ -14,7 +14,7 @@
   - Machine learning applications
 
 - 🤔 I’m looking for help with
-  - AWS guidance 
+  - Machine learning
 
 - 💬 Ask me about 
   - Azure Data Platforms 
