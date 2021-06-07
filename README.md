@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**jonathanneo/jonathanneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on
+  - [Plotly and FB Prophet flask app](https://retail-challenge-lite.herokuapp.com/) for my own development 
+  - [Azure data platforms](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end) for customers 
+  - [Data Analytics Bootcamp](https://bootcamp.uwa.edu.au/data/) at the University of Western Australia
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning 
+  - [AWS Solution Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) 
+
+- 👯 I’m looking to collaborate on
+  - Data Bootcamps
+  - Machine learning applications
+
+- 🤔 I’m looking for help with
+  - AWS guidance 
+
+- 💬 Ask me about 
+  - Azure Data Platforms 
+  - Databricks 
+  - Python 
+  - SQL 
+
+- 📫 How to reach me: https://www.linkedin.com/in/jonneo/
