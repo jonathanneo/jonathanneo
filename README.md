@@ -7,7 +7,8 @@
 
 
 - 🌱 I’m currently learning 
-  - [AWS Solution Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) 
+  - Azure
+  - AWS 
 
 - 👯 I’m looking to collaborate on
   - Data Bootcamps
