@@ -21,3 +21,4 @@
   - SQL 
 
 - 📫 How to reach me: https://www.linkedin.com/in/jonneo/
+- My personal website: https://jonathanneo.com/ 
