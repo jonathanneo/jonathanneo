@@ -7,9 +7,8 @@
   - Data Bootcamps
 
 - 💬 Ask me about 
+  - Modern data stack 
   - Azure data stack 
-  - Open source data stack 
-  - Data architectures 
   - Databricks 
   - Python 
   - SQL 
