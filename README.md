@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
-  - Building cross-cloud data platforms using Databricks and Spark 
+  - Building and managing data platforms at Canva 
+  - Data engineering bootcamps 
 
 - 👯 I’m looking to collaborate on
   - Data Bootcamps
