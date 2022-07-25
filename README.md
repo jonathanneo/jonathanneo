@@ -8,8 +8,7 @@
 
 - 💬 Ask me about 
   - Modern data stack 
-  - Azure data stack 
-  - Databricks 
+  - Data engineering 
   - Python 
   - SQL 
 
