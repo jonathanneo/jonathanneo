@@ -13,7 +13,8 @@
 
 Python, Spark, dbt, Snowflake, Databricks, Dagster, Airflow, PostgreSQL, SQL Server, Kafka, Clickhouse, Terraform, Docker, Azure, AWS, Flask, FastAPI, Preset, Power BI, GitHub Actions. 
 
-#### Contact me 
+#### Socials 
 - [Website](https://jonathanneo.com/) 
 - [LinkedIn](https://www.linkedin.com/in/jonneo/) 
 - [Reddit](https://www.reddit.com/user/j__neo)
+- [Substack](https://jonathanneo.substack.com/)
