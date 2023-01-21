@@ -11,7 +11,7 @@
 
 #### Tech stack 
 
-Python, Spark, dbt, Snowflake, Databricks, Dagster, Airflow, PostgreSQL, SQL Server, Kafka, Clickhouse, Terraform, Docker, Azure, AWS, Flask, FastAPI, Preset, Power BI, GitHub Actions. 
+Python, Spark, dbt, Snowflake, Databricks, Dagster, Airflow, PostgreSQL, SQL Server, Kafka, Clickhouse, Terraform, Docker, Azure, AWS, Flask, FastAPI, Preset, Power BI, GitHub Actions, Airbyte, Fivetran. 
 
 #### Socials 
 - [Website](https://jonathanneo.com/) 
