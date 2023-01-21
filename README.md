@@ -6,7 +6,7 @@
 - 🚀 Founder of [Data Engineer Camp](https://dataengineercamp.com/): data engineering bootcamp with international students from around the world - 🇦🇺 🇸🇬 🇨🇱 🇨🇴 🇺🇸 🇨🇦 🇪🇸 🇮🇳 🇵🇱 🇯🇵 🇹🇭 ... 
 - ✨ Consultant at [j_neo solutions](https://jonathanneo.com/): data engineering advisory and implementation services. 
 - 🧑‍🤝‍🧑 Meetup Host of [Perth Data Engineering Meetup](https://www.meetup.com/perth-data-engineering-meetup/): monthly data engineering meetups - join us! 
-- 📢 Conference and meetup speaker.  
+- 📢 Conference and meetup speaker (@ODSC, @DataTeamsSummit, @DataEngAU) 
 
 
 #### Tech stack 
