@@ -8,11 +8,6 @@
 - 🧑‍🤝‍🧑 Meetup and conference host at [DataEngAU](https://dataengconf.com.au/) 
 - 📢 Conference and meetup speaker (@ODSC, @DataTeamsSummit, @DataEngAU, @DataFuturology, @LatencyConf) 
 
-
-#### Tech stack 
-
-Python, Spark, dbt, Snowflake, Databricks, Dagster, Airflow, PostgreSQL, SQL Server, Kafka, Clickhouse, Terraform, Docker, Azure, AWS, Flask, FastAPI, Preset, Power BI, GitHub Actions, Airbyte, Fivetran. 
-
 #### Socials 
 - [Website](https://jonathanneo.com/) 
 - [LinkedIn](https://www.linkedin.com/in/jonneo/) 
